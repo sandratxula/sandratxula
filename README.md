@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sandratxula
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola, soy @sandratxula
+- 👀 Me interesa aprender a programar
+- 🌱 Estoy estudiando DAM
+- 💞️ En el instituto Gregorio Fernández de Valladolid
+- 📫 Para contactarme mándame un email a sandrapicoalvarez@gmail.com
 
 <!---
 sandratxula/sandratxula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
