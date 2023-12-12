@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 archivo de prueba en la rama main
+=======
+archivo de prueba de la rama pre 
+>>>>>>> pre
